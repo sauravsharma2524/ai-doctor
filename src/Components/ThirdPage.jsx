@@ -11,7 +11,7 @@ const ThirdPage = () => {
                     데이터 클리닉의 프로세스
                 </h2>
 
-                {/* Steps */}
+                
                 <div className="grid grid-cols-1 md:grid-row-2 lg:row-row-4 gap-8">
                     <div className="text-left">
                         <h3 className="text-lg font-semibold text-orange-500">
