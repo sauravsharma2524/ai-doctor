@@ -8,10 +8,12 @@ import SixthPage from './Components/SixthPage'
 import SeventhPage from './Components/SeventhPage'
 import EighthPage from './Components/EighthPage'
 import Footer from './Components/Footer'
+import Header from './Components/Header'
 
 const App = () => {
   return (
     <div>
+      <Header/>
       <FirstPage />
       <SecondPage />
       <ThirdPage />
