@@ -1,12 +1,12 @@
 
 # Ai-doctor Landing Page
 
-- LAYOUT
- -- Navbar
-   -- Pages
- -- Footer
+LAYOUT
+ - Navbar
+   - Pages
+ - Footer
 
-# Total 9 components including the header and footer will be there from which few will be repeated with image's and text's will be changed in them. 
+ Total 9 components including the header and footer will be there from which few will be repeated with image's and text's will be changed in them. 
 
 
 
@@ -18,4 +18,3 @@
 - built the rest of the pages (Eight pages/components in total)
 - Fourth page is repeated 4 times as the layout is same only the image's and text's were different 
 - used web images from internet
-- 
